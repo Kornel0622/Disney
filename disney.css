@@ -1,0 +1,25 @@
+h2{
+    letter-spacing: 1px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    text-transform: uppercase ;
+  }
+
+h2:first-letter {
+    font-size: 120%;
+    margin-top: 50px;
+  }
+  
+p{
+    text-indent: 30px;
+    text-align: justify;
+  }
+  
+#def{
+    font-style: italic;
+    text-align: justify;
+  }
+
+.bg-black{
+    background-color: blue;
+  }

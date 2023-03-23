@@ -3,6 +3,7 @@ h2{
     margin-top: 20px;
     margin-bottom: 20px;
     text-transform: uppercase ;
+    text-align: center
   }
 
 h2:first-letter {
@@ -11,9 +12,9 @@ h2:first-letter {
   }
   
 p{
-    text-indent: 30px;
-    text-align: justify;
-  }
+   text-indent: 70px;
+   text-align: justify;
+}
   
 #def{
     font-style: italic;
@@ -23,3 +24,7 @@ p{
 .bg-black{
     background-color: blue;
   }
+
+h3,p{
+  text-align: center;
+}

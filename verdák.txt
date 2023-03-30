@@ -48,8 +48,10 @@ Villám McQueen épp egy versenyre utazik. Ám Meck, a soförje az esti út sor�
 Szereplők
 Villám McQueen:
     2002-es, a 95-ös számú Le Mans endurance versenyautó.
+    A főszreplő, aki a film végére rájön, hogy nem csak a versenyzésről szól minden.  
 Matuka:
     1951-es, az L-170-es International Harvester autómentő.
+    
 Sally Carrera:
     2002-es Porsche 911
 Doc Hudson – 1951-es Hudson Hornet autó.
